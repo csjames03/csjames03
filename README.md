@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csjames03
+- 👋 Hi, I’m James Ocao
 - 📚 I'm a Computer Science Student
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
